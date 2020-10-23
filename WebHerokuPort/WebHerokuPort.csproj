@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <Description>Biblioteca criada para configurar automaticamente a porta da aplicação em ambiente da plataforma heroku.</Description>
+    <Authors>Snowflakes</Authors>
+    <RepositoryUrl>https://github.com/sn0wfl4k3s/WebHerokuPort</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
